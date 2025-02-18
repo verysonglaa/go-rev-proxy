@@ -1,6 +1,6 @@
 module github.com/afoley587/go-rev-proxy
 
-go 1.20
+go 1.24
 
 require (
 	github.com/bytedance/sonic v1.9.2 // indirect
